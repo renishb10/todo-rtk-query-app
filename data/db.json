@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "buy milk",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "hit the gym",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "buy groceries",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "fix water heater",
+      "completed": false
+    }
+  ]
+}
